@@ -1,0 +1,11 @@
+<php>
+Regedit To Disk_Part
+SHSH_root
+  _Root variable Common
+   _Priv User.Dat 
+     _ Open Ram Disk Part
+  Nand-Flash 
+$ Root Bootable CreatePartition System
+  Boot.Dmg
+    XChnge---
+  Quick Respond... :v 
